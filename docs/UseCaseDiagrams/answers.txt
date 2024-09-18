@@ -1,0 +1,15 @@
+1:The primary actors are the shoppers which includes minors and adults. 
+2: The secondary actors are the employees 
+3: The use cases are verbs
+4: The actors are nouns, because they are people that interact with the system though use cases 
+5: The primary actors are on the left hand side, and they are primary because they are the actors 
+that initiate an interaction with a system. 
+6: The secondary actors are on the right hand side, and they are secondary beacuse they react to the 
+interactions started by the primary actors. 
+7: In a uml diagram extend means that something may or may not happen. In the case of our diagram, the extend
+to the verify ID means that that scenario may or may not happen. An ID will need to be verified only when
+someone is purchasing age restricted items such as alcohol, so this means that not every single purchase
+or interaction with the system will require an ID verified. 
+8: In a uml diagram include means that something will happen. In our case, check cart for items is going
+to take place every time someone interacts with our self checkout system. Every time you buy something your cart
+will be checked to ensure you have everything and have paid for everything. 
